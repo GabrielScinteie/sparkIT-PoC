@@ -1,0 +1,356 @@
+[
+  {
+    "linkedin_url": "https://www.linkedin.com/in/dr-emma-martin",
+    "name": "Mental Health Expert and AI Innovator",
+    "about": "Mental health professional and digital health expert with over 15 years of experience in developing preventive mental health programs. Expertise in creating AI-driven, personalized mental health solutions for educational institutions and corporate wellness programs. Focused on leveraging technology for preventive care and emotional well-being.",
+    "experiences": [
+      {
+        "institution_name": "MindfulTech Solutions",
+        "linkedin_url": "https://www.linkedin.com/company/mindfultech-solutions",
+        "website": "https://www.mindfultech.com",
+        "industry": "Digital Health",
+        "type": "Private Company",
+        "headquarters": "Boston, MA",
+        "company_size": "200-500 employees",
+        "founded": "2010",
+        "from_date": "Feb 2015",
+        "to_date": "Present",
+        "description": "Led the development of an AI-driven platform for mental health assessment and preventive care, which is currently used by educational institutions and corporate clients to improve mental well-being. Oversaw platform optimization, user experience enhancements, and the integration of advanced analytics for personalized care.",
+        "position_title": "Chief Mental Health Officer",
+        "duration": "9 yrs 8 mos",
+        "location": "Boston, MA"
+      },
+      {
+        "institution_name": "Mental Health Solutions Group",
+        "linkedin_url": "https://www.linkedin.com/company/mental-health-solutions-group",
+        "website": "https://www.mentalhealthgroup.com",
+        "industry": "Mental Health Care",
+        "type": "Private Company",
+        "headquarters": "New York, NY",
+        "company_size": "1000-5000 employees",
+        "founded": "2005",
+        "from_date": "Jan 2012",
+        "to_date": "Jan 2015",
+        "description": "Developed and implemented preventive mental health programs for schools and corporations. Collaborated with AI experts to integrate machine learning into mental health assessments, leading to early detection of emotional and psychological challenges.",
+        "position_title": "Senior Mental Health Consultant",
+        "duration": "3 yrs",
+        "location": "New York, NY"
+      },
+      {
+        "institution_name": "University of Mental Health",
+        "linkedin_url": "https://www.linkedin.com/company/university-of-mental-health",
+        "website": "https://www.umh.edu",
+        "industry": "Higher Education",
+        "type": "Public University",
+        "headquarters": "San Francisco, CA",
+        "company_size": "5000+ employees",
+        "founded": "1950",
+        "from_date": "Sep 2008",
+        "to_date": "Dec 2011",
+        "description": "Researched and developed mental health strategies focused on preventive care and emotional intelligence training. Published papers on AI in mental health and its applications for large-scale preventive care initiatives.",
+        "position_title": "Researcher & Program Developer",
+        "duration": "3 yrs 3 mos",
+        "location": "San Francisco, CA"
+      }
+    ],
+    "educations": [
+      {
+        "institution_name": "Harvard University",
+        "linkedin_url": "https://www.linkedin.com/school/harvard-university/",
+        "website": "https://www.harvard.edu",
+        "from_date": "2004",
+        "to_date": "2008",
+        "description": "PhD in Clinical Psychology with a specialization in preventive mental health care and digital health solutions.",
+        "degree": "PhD, Clinical Psychology"
+      },
+      {
+        "institution_name": "Stanford University",
+        "linkedin_url": "https://www.linkedin.com/school/stanford-university/",
+        "website": "https://www.stanford.edu",
+        "from_date": "2000",
+        "to_date": "2004",
+        "description": "Bachelor's Degree in Psychology with a minor in Computer Science, focusing on human-computer interaction in mental health tools.",
+        "degree": "Bachelor's Degree, Psychology"
+      }
+    ],
+    "interests": [
+      "AI in Healthcare",
+      "Mental Health Policy",
+      "Preventive Mental Health",
+      "Digital Health Platforms"
+    ],
+    "accomplishments": [
+      "Published author in leading mental health journals, focusing on the intersection of AI and preventive care.",
+      "Keynote speaker at several international mental health conferences."
+    ],
+    "company": "MindfulTech Solutions",
+    "job_title": "Chief Mental Health Officer"
+  },
+  {
+    "linkedin_url": "https://www.linkedin.com/in/james-logistics-expert",
+    "name": "Logistics and Supply Chain Leader",
+    "about": "Experienced logistics and supply chain professional with over 15 years of expertise in optimizing supply chain processes, improving warehouse efficiency, and managing large-scale distribution networks.",
+    "experiences": [
+        {
+            "institution_name": "Global Logistics Solutions",
+            "linkedin_url": "https://www.linkedin.com/company/globallogistics",
+            "website": "https://www.globallogistics.com",
+            "industry": "Logistics and Supply Chain",
+            "type": "Privately Held",
+            "headquarters": "Chicago, IL, USA",
+            "company_size": "10,000+ employees",
+            "founded": "2001",
+            "from_date": "Jan 2018",
+            "to_date": "Present",
+            "description": "Leading a team of 50 supply chain experts to develop and implement advanced logistics strategies for optimizing end-to-end supply chain processes. Successfully reduced operational costs by 15% through automation and real-time tracking systems.",
+            "position_title": "Director of Supply Chain Operations",
+            "duration": "6 yrs",
+            "location": "Chicago, IL, USA"
+        },
+        {
+            "institution_name": "SupplyTech Innovations",
+            "linkedin_url": "https://www.linkedin.com/company/supplytech",
+            "website": "https://www.supplytech.com",
+            "industry": "Technology and Supply Chain Automation",
+            "type": "Privately Held",
+            "headquarters": "New York, NY, USA",
+            "company_size": "5,000+ employees",
+            "founded": "2005",
+            "from_date": "Jun 2012",
+            "to_date": "Dec 2017",
+            "description": "Managed and developed innovative software solutions for optimizing warehouse management and streamlining supply chain operations. Implemented AI-powered inventory tracking systems.",
+            "position_title": "Senior Supply Chain Consultant",
+            "duration": "5 yrs 6 mos",
+            "location": "New York, NY, USA"
+        }
+    ],
+    "educations": [
+        {
+            "institution_name": "University of Michigan",
+            "linkedin_url": "https://www.linkedin.com/school/university-of-michigan",
+            "website": "https://www.umich.edu",
+            "from_date": "2004",
+            "to_date": "2008",
+            "description": "Specialized in supply chain management, logistics, and operations research.",
+            "degree": "Bachelor of Science in Supply Chain Management"
+        }
+    ],
+    "interests": [
+        "Supply Chain Optimization",
+        "Logistics Automation",
+        "Technology in Warehousing",
+        "Artificial Intelligence in Supply Chain"
+    ],
+    "accomplishments": [
+        "Published article in 'Supply Chain Today' on the impact of AI in logistics",
+        "Keynote speaker at the 2022 Global Logistics Conference"
+    ],
+    "company": "Global Logistics Solutions",
+    "job_title": "Director of Supply Chain Operations"
+  },
+  {
+    "linkedin_url": "https://www.linkedin.com/in/jessica-turner",
+    "name": "E-Commerce Marketing Specialist",
+    "about": "Experienced marketing specialist with a strong background in e-commerce.",
+    "experiences": [
+      {
+        "institution_name": "E-Shop Corp",
+        "linkedin_url": "https://www.linkedin.com/company/e-shop-corp",
+        "from_date": "Jan 2020",
+        "to_date": "Present",
+        "description": "Led marketing campaigns that increased online sales by 150%.",
+        "position_title": "Marketing Manager",
+        "duration": "3 yrs 9 mos",
+        "location": "Remote"
+      },
+      {
+        "institution_name": "AdVantage",
+        "linkedin_url": "https://www.linkedin.com/company/ad-advantage",
+        "from_date": "Jul 2017",
+        "to_date": "Dec 2019",
+        "description": "Optimized website content, improving search rankings and driving traffic.",
+        "position_title": "SEO Specialist",
+        "duration": "2 yrs 5 mos",
+        "location": "City, State"
+      }
+    ],
+    "educations": [
+      {
+        "institution_name": "State University",
+        "linkedin_url": "https://www.linkedin.com/school/state-university",
+        "from_date": "2013",
+        "to_date": "2017",
+        "description": "Focused on digital marketing and consumer behavior.",
+        "degree": "B.A. in Marketing"
+      }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "company": "E-Shop Corp",
+    "job_title": "Marketing Manager"
+  },
+  {
+    "linkedin_url": "https://www.linkedin.com/in/michael-chang",
+    "name": "Automotive Mechanical Engineer",
+    "about": "Mechanical engineer with a passion for automotive design.",
+    "experiences": [
+      {
+        "institution_name": "AutoTech",
+        "linkedin_url": "https://www.linkedin.com/company/autotech",
+        "from_date": "Jan 2016",
+        "to_date": "Present",
+        "description": "Designed and implemented new engine components that improved fuel efficiency.",
+        "position_title": "Senior Mechanical Engineer",
+        "duration": "8 yrs",
+        "location": "Detroit, MI"
+      },
+      {
+        "institution_name": "Precision Machining",
+        "linkedin_url": "https://www.linkedin.com/company/precision-machining",
+        "from_date": "Jun 2013",
+        "to_date": "Dec 2015",
+        "description": "Managed projects from conception to completion, focusing on cost-effective solutions.",
+        "position_title": "Project Engineer",
+        "duration": "2 yrs 6 mos",
+        "location": "City, State"
+      }
+    ],
+    "educations": [
+      {
+        "institution_name": "Tech Institute",
+        "linkedin_url": "https://www.linkedin.com/school/tech-institute",
+        "from_date": "2008",
+        "to_date": "2012",
+        "description": "Specialized in mechanical engineering and design.",
+        "degree": "M.S. in Mechanical Engineering"
+      }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "company": "AutoTech",
+    "job_title": "Senior Mechanical Engineer"
+  },
+  {
+    "linkedin_url": "https://www.linkedin.com/in/pri-sharma",
+    "name": "Financial Analyst Specializing in Investment Portfolio Performance",
+    "about": "Financial analyst focused on maximizing investment portfolio performance.",
+    "experiences": [
+      {
+        "institution_name": "Wealth Management Inc.",
+        "linkedin_url": "https://www.linkedin.com/company/wealth-management-inc",
+        "from_date": "Jan 2019",
+        "to_date": "Present",
+        "description": "Analyzed market trends to provide investment recommendations.",
+        "position_title": "Senior Analyst",
+        "duration": "4 yrs",
+        "location": "City, State"
+      },
+      {
+        "institution_name": "InvestSmart",
+        "linkedin_url": "https://www.linkedin.com/company/investsmart",
+        "from_date": "Mar 2015",
+        "to_date": "Dec 2018",
+        "description": "Advised clients on financial planning and risk management.",
+        "position_title": "Financial Consultant",
+        "duration": "3 yrs 9 mos",
+        "location": "City, State"
+      }
+    ],
+    "educations": [
+      {
+        "institution_name": "Business University",
+        "linkedin_url": "https://www.linkedin.com/school/business-university",
+        "from_date": "2011",
+        "to_date": "2015",
+        "description": "Focused on finance and investment strategies.",
+        "degree": "B.S. in Finance"
+      }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "company": "Wealth Management Inc.",
+    "job_title": "Senior Analyst"
+  },
+  {
+    "linkedin_url": "https://www.linkedin.com/in/david-lee",
+    "name": "Software Developer with Expertise in Web Applications",
+    "about": "Software developer with expertise in building robust web applications.",
+    "experiences": [
+      {
+        "institution_name": "CodeWorks",
+        "linkedin_url": "https://www.linkedin.com/company/codeworks",
+        "from_date": "Jan 2021",
+        "to_date": "Present",
+        "description": "Developed and maintained web applications for various clients.",
+        "position_title": "Full-Stack Developer",
+        "duration": "2 yrs 8 mos",
+        "location": "Remote"
+      },
+      {
+        "institution_name": "Tech Innovations",
+        "linkedin_url": "https://www.linkedin.com/company/tech-innovations",
+        "from_date": "Jul 2018",
+        "to_date": "Dec 2020",
+        "description": "Assisted in the development of a mobile app for e-commerce.",
+        "position_title": "Software Engineer Intern",
+        "duration": "2 yrs 6 mos",
+        "location": "City, State"
+      }
+    ],
+    "educations": [
+      {
+        "institution_name": "Engineering College",
+        "linkedin_url": "https://www.linkedin.com/school/engineering-college",
+        "from_date": "2014",
+        "to_date": "2018",
+        "description": "Studied computer science and software engineering.",
+        "degree": "B.S. in Computer Science"
+      }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "company": "CodeWorks",
+    "job_title": "Full-Stack Developer"
+  },
+  {
+    "linkedin_url": "https://www.linkedin.com/in/sarah-collins",
+    "name": "Creative Art Director Focused on Visual Storytelling",
+    "about": "Creative art director passionate about visual storytelling and branding.",
+    "experiences": [
+      {
+        "institution_name": "Creative Agency",
+        "linkedin_url": "https://www.linkedin.com/company/creative-agency",
+        "from_date": "Apr 2019",
+        "to_date": "Present",
+        "description": "Led design projects for high-profile advertising campaigns.",
+        "position_title": "Art Director",
+        "duration": "4 yrs 5 mos",
+        "location": "City, State"
+      },
+      {
+        "institution_name": "Visual Arts Studio",
+        "linkedin_url": "https://www.linkedin.com/company/visual-arts-studio",
+        "from_date": "Jan 2016",
+        "to_date": "Mar 2019",
+        "description": "Created branding materials and promotional content for various clients.",
+        "position_title": "Graphic Designer",
+        "duration": "3 yrs 2 mos",
+        "location": "City, State"
+      }
+    ],
+    "educations": [
+      {
+        "institution_name": "Art School",
+        "linkedin_url": "https://www.linkedin.com/school/art-school",
+        "from_date": "2011",
+        "to_date": "2015",
+        "description": "Specialized in graphic design and multimedia production.",
+        "degree": "B.F.A. in Graphic Design"
+      }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "company": "Creative Agency",
+    "job_title": "Art Director"
+  }
+]

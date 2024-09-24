@@ -1,0 +1,24 @@
+{
+    "BMC": {
+        "keyPartners": "Tech companies, mental health professionals, educational institutions",
+        "keyActivities": "Development of digital tools and platforms for mental health education and preventive care",
+        "valuePropositions": "Providing innovative, preventive mental health solutions through digital platforms",
+        "customerRelationships": "Long-term contracts with educational institutions and mental health organizations",
+        "customerSegments": "Schools, universities, corporate wellness programs, and individual users seeking mental health support",
+        "channels": "Online platform, mobile application, partnerships with educational and health institutions",
+        "costStructure": "Platform development, mental health professional partnerships, marketing, and distribution",
+        "revenueStreams": "Subscription-based model for institutions, individual users, and corporate wellness programs"
+    },
+    "needs": {
+        "keyPartners": "Looking for mental health professionals to develop tailored preventive programs",
+        "keyActivities": "Need to optimize the development and user experience of the platform for better engagement",
+        "valuePropositions": "Require advanced analytics and AI-based personalization for mental health care",
+        "customerRelationships": "Need to strengthen the CRM system to maintain relationships with corporate clients and educational institutions",
+        "customerSegments": "",
+        "channels": "",
+        "costStructure": "",
+        "revenueStreams": ""
+    },
+    "businessDescription": "MindHero is a digital platform focused on providing preventive mental health education and tools. Our mission is to help schools, universities, and businesses address mental health challenges early by offering tailored programs that improve communication, emotional intelligence, and overall mental wellness. Through our AI-powered platform, we empower users to take control of their mental health proactively."
+}
+
