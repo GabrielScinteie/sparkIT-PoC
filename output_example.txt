@@ -1,0 +1,45 @@
+Need: keyPartners
+Expert: Mental Health Expert and AI Innovator, Match Probability: 0.8137
+Expert: Creative Art Director Focused on Visual Storytelling, Match Probability: 0.6177
+Expert: Software Developer with Expertise in Web Applications, Match Probability: 0.6100
+Expert: E-Commerce Marketing Specialist, Match Probability: 0.5584
+Expert: Automotive Mechanical Engineer, Match Probability: 0.5429
+Expert: Logistics and Supply Chain Leader, Match Probability: 0.5428
+Expert: Financial Analyst Specializing in Investment Portfolio Performance, Match Probability: 0.5278
+
+Need: keyActivities
+Expert: Mental Health Expert and AI Innovator, Match Probability: 0.7901
+Expert: Creative Art Director Focused on Visual Storytelling, Match Probability: 0.6179
+Expert: Software Developer with Expertise in Web Applications, Match Probability: 0.6151
+Expert: E-Commerce Marketing Specialist, Match Probability: 0.5726
+Expert: Logistics and Supply Chain Leader, Match Probability: 0.5498
+Expert: Automotive Mechanical Engineer, Match Probability: 0.5476
+Expert: Financial Analyst Specializing in Investment Portfolio Performance, Match Probability: 0.5321
+
+Need: valuePropositions
+Expert: Mental Health Expert and AI Innovator, Match Probability: 0.8029
+Expert: Creative Art Director Focused on Visual Storytelling, Match Probability: 0.6116
+Expert: Software Developer with Expertise in Web Applications, Match Probability: 0.6001
+Expert: E-Commerce Marketing Specialist, Match Probability: 0.5567
+Expert: Automotive Mechanical Engineer, Match Probability: 0.5419
+Expert: Logistics and Supply Chain Leader, Match Probability: 0.5367
+Expert: Financial Analyst Specializing in Investment Portfolio Performance, Match Probability: 0.5280
+
+Need: customerRelationships
+Expert: Mental Health Expert and AI Innovator, Match Probability: 0.8049
+Expert: Software Developer with Expertise in Web Applications, Match Probability: 0.6307
+Expert: Creative Art Director Focused on Visual Storytelling, Match Probability: 0.6249
+Expert: E-Commerce Marketing Specialist, Match Probability: 0.5875
+Expert: Logistics and Supply Chain Leader, Match Probability: 0.5703
+Expert: Financial Analyst Specializing in Investment Portfolio Performance, Match Probability: 0.5429
+
+General Match Probabilities:
+Expert: Mental Health Expert and AI Innovator, General Match Probability: 0.8564
+Expert: Software Developer with Expertise in Web Applications, General Match Probability: 0.6415
+Expert: Creative Art Director Focused on Visual Storytelling, General Match Probability: 0.6330
+Expert: E-Commerce Marketing Specialist, General Match Probability: 0.5951
+Expert: Logistics and Supply Chain Leader, General Match Probability: 0.5853
+Expert: Financial Analyst Specializing in Investment Portfolio Performance, General Match Probability: 0.5642
+Expert: Automotive Mechanical Engineer, General Match Probability: 0.5576
+
+
